@@ -1,0 +1,15 @@
+section:has(.container) {
+  background-color: var(--white-700);
+}
+
+.container {
+  width: 90%;
+}
+
+.container form {
+  background-color: var(--white-900);
+}
+
+.container figure {
+  position: relative;
+}
